@@ -1,4 +1,4 @@
-*g00.extremetech.com
+extremetech.com
 0.r.msn.com
 005.free-counter.co.uk
 006.free-counter.co.uk
@@ -32701,3 +32701,7 @@ zyski-z-innowacji.pl
 zz.connextra.com
 zz.cqcounter.com
 zzz.clickbank.net
+adnexus.net
+a-msedge.net
+evip.aol.com
+1e100.net
