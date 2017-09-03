@@ -4541,7 +4541,6 @@ adserversolutions.com
 adserverus.info
 adservice.aliexpress.com
 adservicedomain.info
-adservices.google.com
 adservices.picadmedia.com
 adservicestats.com
 adserving.autotrader.com
@@ -8679,7 +8678,6 @@ client.roiadtracker.com
 clients.bluecava.com
 clients.pointroll.com
 clients.tbo.com
-clients1.google.com
 clik2008.popunder.ru
 clik6.com
 clik8.com
@@ -18617,7 +18615,6 @@ ogladajbezlimitow.pl
 ogladajmecz.com.pl
 ogladam.pl
 oglasnikadhr.hit.gemius.pl
-ogs.google.com
 oh.5.p2l.info
 ohgizmo.us.intellitxt.com
 ohiomm.com
@@ -19176,10 +19173,8 @@ pacific-poker.e-online-poker-4u.net
 pacman.gkgar.com
 padsdel.cdnads.com
 page.0ffer.eu
-pagead-googlehosted.l.google.com
 pagead.googlesyndication.com
 pagead.l.doubleclick.net
-pagead.l.google.com
 pagead.topobiavi.com
 pagead1.googlesyndication.com
 pagead2.googleadservices.com
@@ -19284,7 +19279,6 @@ partner01.oingo.com
 partner02.oingo.com
 partner03.oingo.com
 partnerad.l.doubleclick.net
-partnerad.l.google.com
 partnerads.ysm.yahoo.com
 partnercash.de
 partnerearning.com
@@ -21771,7 +21765,7 @@ scdown.qq.com
 scdsfdfgdr12.tk
 schaeffers.112.2o7.net
 schemas.microsoft.akadns.net
-schemas.microsoft.akadns.net 
+schemas.microsoft.akadns.net
 schlager.oewabox.at
 schoorsteen.geenstijl.nl
 schuelvz.ivwbox.de
@@ -26157,7 +26151,6 @@ video-ads.rubiconproject.com
 video-base.pl
 video-game-rewards-central.com
 video-pomp.com
-video-stats.video.google.com
 video.adaptv.advertising.com
 video.chaki.netdna-cdn.com
 video.dmtracker.com
@@ -27223,11 +27216,10 @@ wwfsable.com
 wwis-dubc1-vip60.adobe.com
 wwtdd.tags.crwdcntrl.net
 wwtdd.us.intellitxt.com
-wwv.onetad.com
-www-banner.chat.ru
-www-google-analytics.l.google.com
-www-google.nl
-www-old.nastydollars.com
+www.onetad.com
+www.banner.chat.ru
+www.google.nl
+www.old.nastydollars.com
 www.00fun.com
 www.0stats.com
 www.0uk.net
@@ -27650,7 +27642,6 @@ www.americanfootballbetting.com
 www.americasbookie.com
 www.amoxicillin-amoxil-buy.com
 www.analgirls.biz
-www.analytic-google.com
 www.analyticdns.org
 www.anastasiasaffiliate.com
 www.anatol.com
