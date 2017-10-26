@@ -71,6 +71,8 @@ adserver-us.adtech.advertising.com
 adserver.adtech.de
 adserver.adtechus.com
 adserver.xpanama.net
+adservice.google.co.uk
+adservice.google.com
 adswithsalt.com
 adtech-ads-wcatatwola-shared-amt.evip.aol.com
 adx.g.doubleclick.net
@@ -315,6 +317,7 @@ images.outbrain.com
 images.taboola.com
 imasdk.googleapis.com
 img.alicdn.com
+img.mediaplex.com
 img.revcontent.com
 imgak.mmtcdn.com
 imgec.trivago.com
@@ -488,6 +491,7 @@ simage2.pubmatic.com
 simage4.pubmatic.com
 skybet.com
 sos.azadicdn.com
+sp.adbrn.com
 speednetwork1.adk2x.com
 speednetwork14.adk2x.com
 srv-2017-09-03-13.config.parsely.com
@@ -525,6 +529,7 @@ sync.mathtag.com
 sync.outbrain.com
 sync.search.spotxchange.com
 sync.srv.stackadapt.com
+sync.teads.tv
 syndication.exoclick.com
 t.contentinsights.com
 t.cwkuki.com
