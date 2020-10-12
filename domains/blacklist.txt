@@ -1267,3 +1267,4 @@ adashbc.ut.taobao.com
 amdcopen.m.taobao.com	
 accscdn4public.m.taobao.com	
 acs4public.m.taobao.com
+vipicmou.net
