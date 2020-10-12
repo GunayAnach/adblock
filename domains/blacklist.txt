@@ -927,7 +927,6 @@ pads.cdnads.com
 69.blastnotificationx.com
 7ra2.4ipda.com
 93.blastnotificationx.com
-a-0011.a-msedge.net
 a.kalmloda.com
 a.nimdinb.com
 a.optnmstr.com
@@ -1054,7 +1053,6 @@ kgspucrs
 kgspucrs.lan
 kurlichan.com
 kurwinner.com
-l-0003.l-msedge.net
 lcidc.liadm.com
 leatherads.com
 leguinge.info
@@ -2302,7 +2300,6 @@ pads.cdnads.com
 69.blastnotificationx.com
 7ra2.4ipda.com
 93.blastnotificationx.com
-a-0011.a-msedge.net
 a.kalmloda.com
 a.nimdinb.com
 a.optnmstr.com
@@ -2428,7 +2425,6 @@ kgspucrs
 kgspucrs.lan
 kurlichan.com
 kurwinner.com
-l-0003.l-msedge.net
 lcidc.liadm.com
 leatherads.com
 leguinge.info
