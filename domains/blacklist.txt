@@ -763,7 +763,6 @@ bg.adocean.pl
 bg.hit.gemius.pl
 gabg.hit.gemius.pl
 gdebg.hit.gemius.pl
-graph.facebook.com
 ls.hit.gemius.pl
 mamamia.bg
 updateauto.trafficsourceoftoplevelcontentsubmit.download
