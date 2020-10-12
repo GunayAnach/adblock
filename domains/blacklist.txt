@@ -1227,7 +1227,6 @@ onstunkyr.com
 *.amazon-adsystem.com
 bcmls2.glpals.com
 ocsp.sca1b.amazontrust.com
-time-osx.g.aaplimg.com
 ad.xmovies8.si
 abdurantom.com
 inpagepush.com
