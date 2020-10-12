@@ -36,7 +36,6 @@ ads.yieldmo.com
 adserver-us.adtech.advertising.com
 adserver.adtech.de
 adserver.adtechus.com
-ajax.googleapis.com
 ak.sail-horizon.com
 aka-cdn.adtechus.com
 aktrack.pubmatic.com
@@ -821,8 +820,6 @@ ri.ngaln.com
 seriestop.disqus.com
 static.openguid.org
 teutorigos-cat.com
-www.googletagmanager.com
-www.google-analytics.com
 zukxd6fkxqn.com
 flenix.co
 flenix-net.disqus.com
@@ -960,14 +957,6 @@ astat.bugly.qq.com
 autoupdate.bestmainlystable4contentingnow.icu
 b-code.liadm.com
 baseapius.xiaoyi.com
-bcmls2.glpals.com
-beacons.gcp.gvt2.com
-beacons.gvt2.com
-beacons2.gvt2.com
-beacons3.gvt2.com
-beacons4.gvt2.com
-beacons5.gvt2.com
-beacons5.gvt3.com
 bestdateshere22.com
 bitcointraderspro.com
 blizardom.com
@@ -1082,8 +1071,6 @@ n1530.disk.ly
 newsupdatedir.info
 nlntrk.com
 nppxml.bruderste.in
-ocsp.int-x3.letsencrypt.org
-ocsp.sca1b.amazontrust.com
 ocsp.trust-provider.com
 office.leaddealer.net
 om.forgeofempires.com
@@ -1153,7 +1140,6 @@ t.strmtrk.com
 t.update.rubiconproject.com
 td.vs3.com
 theirsvendor.com
-time-osx.g.aaplimg.com
 titranco.info
 top.weareoffers.com
 traacker2.info
@@ -2454,7 +2440,6 @@ n1530.disk.ly
 newsupdatedir.info
 nlntrk.com
 nppxml.bruderste.in
-ocsp.int-x3.letsencrypt.org
 ocsp.sca1b.amazontrust.com
 ocsp.trust-provider.com
 office.leaddealer.net
@@ -2594,7 +2579,6 @@ wzdzht7am5.com
 xhr.zirobata.com
 yh5ynji49w.com
 secure.quantserve.com
-graph.facebook.com
 prebid.media.net
 hb.nexage.com
 hb-api.omnitagjs.com
