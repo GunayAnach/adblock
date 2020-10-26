@@ -1222,8 +1222,6 @@ zap.buzz
 ads.as.criteo.com
 static.ptoahaistais.com
 onstunkyr.com
-*.safeframe.googlesyndication.com
-*.amazon-adsystem.com
 bcmls2.glpals.com
 ocsp.sca1b.amazontrust.com
 ad.xmovies8.si

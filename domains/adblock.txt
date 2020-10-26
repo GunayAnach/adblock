@@ -1383,8 +1383,6 @@
 0.0.0.0 ads.as.criteo.com
 0.0.0.0 static.ptoahaistais.com
 0.0.0.0 onstunkyr.com
-0.0.0.0 *.safeframe.googlesyndication.com
-0.0.0.0 *.amazon-adsystem.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 1.adbrite.com
 0.0.0.0 15.taboola.com
