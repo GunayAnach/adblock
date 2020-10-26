@@ -1067,7 +1067,6 @@
 0.0.0.0 lps.innogamescdn.com
 0.0.0.0 lucklayed.info
 0.0.0.0 m.data.mob.com
-0.0.0.0 m.media-amazon.com
 0.0.0.0 mac.ourcdn.bid
 0.0.0.0 map.go.affec.tv
 0.0.0.0 media.joinupads.com

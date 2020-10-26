@@ -1053,7 +1053,6 @@ lp.searchdimension.com
 lps.innogamescdn.com
 lucklayed.info
 m.data.mob.com
-m.media-amazon.com
 mac.ourcdn.bid
 map.go.affec.tv
 media.joinupads.com
