@@ -413,11 +413,6 @@ ir-uk.amazon-adsystem.com
 wms-eu.amazon-adsystem.com
 ws-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
-i1.wp.com
-s0.wp.com
-stats.wp.com
-widgets.wp.com
-i0.wp.com
 data.dianomi.com
 www.smartlinks.dianomi.com
 www.dianomi.com
@@ -1110,7 +1105,6 @@ rtrza3.download
 run-syndicate.com
 runmewivel.com
 s.jpush.cn
-s.w.org
 s1.postimg.cc
 s8.postimg.cc
 sa6.tuisong.baidu.com

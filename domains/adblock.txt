@@ -414,11 +414,6 @@
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
-0.0.0.0 i1.wp.com
-0.0.0.0 s0.wp.com
-0.0.0.0 stats.wp.com
-0.0.0.0 widgets.wp.com
-0.0.0.0 i0.wp.com
 0.0.0.0 data.dianomi.com
 0.0.0.0 www.smartlinks.dianomi.com
 0.0.0.0 www.dianomi.com
@@ -1125,7 +1120,6 @@
 0.0.0.0 run-syndicate.com
 0.0.0.0 runmewivel.com
 0.0.0.0 s.jpush.cn
-0.0.0.0 s.w.org
 0.0.0.0 s1.postimg.cc
 0.0.0.0 s8.postimg.cc
 0.0.0.0 sa6.tuisong.baidu.com
