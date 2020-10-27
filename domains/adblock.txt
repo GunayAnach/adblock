@@ -764,7 +764,6 @@
 0.0.0.0 bg.hit.gemius.pl
 0.0.0.0 gabg.hit.gemius.pl
 0.0.0.0 gdebg.hit.gemius.pl
-0.0.0.0 graph.facebook.com
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 mamamia.bg
 0.0.0.0 updateauto.trafficsourceoftoplevelcontentsubmit.download
@@ -2595,7 +2594,6 @@
 0.0.0.0 xhr.zirobata.com
 0.0.0.0 yh5ynji49w.com
 0.0.0.0 secure.quantserve.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 prebid.media.net
 0.0.0.0 hb.nexage.com
 0.0.0.0 hb-api.omnitagjs.com
