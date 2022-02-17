@@ -504,7 +504,6 @@ datasrv.progressplay.net
 datetoday.club
 datingxonline.com
 datumglobal.com
-dc.applicationinsights.microsoft.com
 de.tynt.com
 defpush.com
 delivery.clickonometrics.pl
