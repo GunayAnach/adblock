@@ -160,7 +160,6 @@ aelego.aliexpress.com
 affiliate.coral.co.uk
 affiliate.sportsinteraction.com
 aiwhebey.com
-ajax.googleapis.com
 ak.imgfarm.com
 ak.sail-horizon.com
 ak.staticimgfarm.com
@@ -463,7 +462,6 @@ coinhive.com
 collector-1745.tvsquared.com
 comasoiling.casa
 config.addictedtomovies.co
-connect.facebook.net
 connect.ok.ru
 consent.cookiebot.com
 consentcdn.cookiebot.com
@@ -1222,7 +1220,6 @@ static.ptoahaistais.com
 static.scbl54virared.com
 static.tacdn.com
 static.zdassets.com
-staticxx.facebook.com
 stats.apester.com
 stats.aws.rubiconproject.com
 stats.g.doubleclick.net
@@ -1443,7 +1440,6 @@ www.estrongs.com
 www.etsy.com
 www.expressvpn.com
 www.extremefreegames.com
-www.facebook.com
 www.fintech-adv.com
 www.fitmum.life
 www.flashx.tv
