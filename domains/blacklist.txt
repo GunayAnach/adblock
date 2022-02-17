@@ -271,13 +271,6 @@ beacon-eu-ams3.rubiconproject.com
 beacon.gu-web.net
 beacon.krxd.net
 beacon.walmart.com
-beacons.gcp.gvt2.com
-beacons.gvt2.com
-beacons2.gvt2.com
-beacons3.gvt2.com
-beacons4.gvt2.com
-beacons5.gvt2.com
-beacons5.gvt3.com
 beap-bc.yahoo.com
 bedrapiona.com
 bepiletussar.casa
@@ -688,7 +681,6 @@ hb.nexage.com
 hbopenbid.pubmatic.com
 hedwgpezqqbgk
 hedwgpezqqbgk.lan
-help.apple.com
 hhljs.nnouncemuke.com
 host-62-24-251-11.as13285.net
 housineschard.info
@@ -723,7 +715,6 @@ images.outbrain.com
 images.sftcdn.net
 images.taboola.com
 imagetopng.club
-imasdk.googleapis.com
 img-cdn.mediaplex.com
 img.alicdn.com
 img.mediaplex.com
@@ -765,7 +756,6 @@ js-sec.indexww.com
 js.ad-score.com
 js.cleancentertours.com
 js.foxpush.com
-js.gumgum.com
 js.maxmind.com
 jsc.adskeeper.co.uk
 jsc.adskeeper.com
@@ -1449,10 +1439,7 @@ www.friendlyappz.com
 www.g64cfg9yi6kx.com
 www.get-express-vpn.com
 www.getappletypeflash.icu
-www.google-analytics.com
 www.googleadservices.com
-www.googletagmanager.com
-www.googletagservices.com
 www.gzzctcekf.com
 www.highperformancecpm.com
 www.hitcpm.com
