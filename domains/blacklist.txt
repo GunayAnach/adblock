@@ -31,8 +31,6 @@
 7ra2.4ipda.com
 7v8rya73sj.com
 93.blastnotificationx.com
-a-0001.a-msedge.net
-a-0011.a-msedge.net
 a.adroll.com
 a.binomo.com
 a.company-target.com
@@ -778,7 +776,6 @@ ksassets.timeincuk.net
 kurlichan.com
 kurlipush.com
 kurwinner.com
-l-0003.l-msedge.net
 l.betrad.com
 l.sharethis.com
 ladsecz.com
