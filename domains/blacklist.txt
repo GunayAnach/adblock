@@ -203,7 +203,6 @@ api.tr.blismedia.com
 api.trackinglove.com
 api.verticalscope.com
 api.viglink.com
-api2.poperblocker.com
 app-sj24.marketo.com
 app.dingit.tv
 app.getsitecontrol.com
