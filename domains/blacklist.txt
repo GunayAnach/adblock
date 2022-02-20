@@ -153,7 +153,6 @@ advertising.oriel.io
 adx.adform.net
 adx.g.doubleclick.net
 adxbid.info
-ae01.alicdn.com
 aelego.aliexpress.com
 affiliate.coral.co.uk
 affiliate.sportsinteraction.com
@@ -682,7 +681,6 @@ host-62-24-251-11.as13285.net
 housineschard.info
 htlb.casalemedia.com
 http2.mlstatic.com
-i.alicdn.com
 i.bstatic.com
 i.liadm.com
 i.w55c.net
@@ -788,7 +786,6 @@ lghtds.net
 lhr25s08-in-f6.1e100.net
 li.pxl.ace.advertising.com
 licensing.bitmovin.com
-lighthouse.aliexpress.com
 lip11t.com
 live.clickspree.com
 live.sekindo.com
@@ -1207,7 +1204,6 @@ static.tacdn.com
 static.zdassets.com
 stats.apester.com
 stats.aws.rubiconproject.com
-stats.g.doubleclick.net
 stats.jpush.cn
 stats.pagefair.com
 steepto.com
