@@ -814,7 +814,6 @@ m.addthis.com
 m.addthisedge.com
 m.adnxs.com
 m.data.mob.com
-m.media-amazon.com
 mac.ourcdn.bid
 magnetic.t.domdex.com
 mailonline-uk-d.openx.net
