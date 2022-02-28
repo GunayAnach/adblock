@@ -144,8 +144,6 @@ adserver.adtech.de
 adserver.adtechus.com
 adserver.xpanama.net
 adservice.aliexpress.com
-adservice.google.co.uk
-adservice.google.com
 adswithsalt.com
 adt.pxl.ace.advertising.com
 adtech-ads-wcatatwola-shared-amt.evip.aol.com
@@ -1428,7 +1426,6 @@ www.friendlyappz.com
 www.g64cfg9yi6kx.com
 www.get-express-vpn.com
 www.getappletypeflash.icu
-www.googleadservices.com
 www.gzzctcekf.com
 www.highperformancecpm.com
 www.hitcpm.com
