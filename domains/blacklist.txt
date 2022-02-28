@@ -77,6 +77,7 @@ acs4public.m.taobao.com
 acscdn.com
 action.media6degrees.com
 activewin.adsrv.eacdn.com
+ad-cdn.technoratimedia.com
 ad-delivery.net
 ad.a-ads.com
 ad.afy11.net
@@ -129,6 +130,7 @@ ads.pubmatic.com
 ads.rubiconproject.com
 ads.scorecardresearch.com
 ads.servebom.com
+ads.servenobid.com
 ads.stickyadstv.com
 ads.swatchseries.to
 ads.xmlwizard.com
@@ -1166,6 +1168,7 @@ spendentaly.info
 sports.bwin.com
 srv-2017-09-03-13.config.parsely.com
 srv.realpython.net
+ssl.cdne.cpmstar.com
 ssl4anyone5.com
 sslwidget.criteo.com
 ssp.streamrail.net
