@@ -984,7 +984,9 @@ pqowedazx.bid
 pqqvajclrefers.xyz
 pr-bh.ybp.yahoo.com	
 prd-collector-anon.ex.co
+prebid-a.rubiconproject.com	
 prebid-server.rubiconproject.com
+prebid.a-mo.net	
 prebid.adnxs.com
 prebid.media.net
 premiumsrv.aniview.com
@@ -1176,6 +1178,7 @@ spendentaly.info
 sports.bwin.com
 srv-2017-09-03-13.config.parsely.com
 srv.realpython.net
+ssbsync.smartadserver.com
 ssl.cdne.cpmstar.com
 ssl4anyone5.com
 sslwidget.criteo.com
