@@ -33,11 +33,13 @@
 93.blastnotificationx.com
 a.adroll.com
 a.binomo.com
+a.clickcertain.com
 a.company-target.com
 a.imprvdosrv.com
 a.kalmloda.com
 a.nimdinb.com
 a.optnmstr.com
+a.remarketstats.com
 a.rfihub.com
 a.teads.tv
 a.tribalfusion.com
@@ -75,6 +77,7 @@ acrossiblel.info
 acs.m.taobao.com
 acs4public.m.taobao.com
 acscdn.com
+act.ds.kakao.com
 action.media6degrees.com
 activewin.adsrv.eacdn.com
 ad-cdn.technoratimedia.com
@@ -229,6 +232,7 @@ assets.guim.co.uk
 assets.ipcdigital.co.uk
 assets.kromtech.net
 assets.onestore.ms
+assetscdn.pushengage.com
 astat.bugly.qq.com
 at.atwola.com
 athirstinwind.cam
@@ -327,6 +331,8 @@ c2.taboola.com
 c3.adalyser.com
 cache.btrll.com
 cachewww.coral.co.uk
+capi-tier-1-us-east-2.connatix.com
+capi.connatix.com
 cas.eu.criteo.com
 cas.pxl.ace.advertising.com
 cashonads.com
@@ -335,6 +341,7 @@ casino.mobilewins.co.uk
 cat.fr.eu.criteo.com
 causatrk42.com
 cbsi.demdex.net
+cd.connatix.com
 cdn-ssl.vidible.tv
 cdn.123shapeme.com
 cdn.adrta.com
@@ -431,6 +438,7 @@ clickioadve.com
 clickiocdn.com
 clickwork7secure.com
 client-deploy.swpcld.com
+clientcdn.pushengage.com
 cloud.cashtrafic.info
 cm.adgrx.com
 cm.everesttech.net
@@ -973,7 +981,9 @@ pqowedazx.bid
 pqqvajclrefers.xyz
 pr-bh.ybp.yahoo.com	
 prd-collector-anon.ex.co
+prebid-a.rubiconproject.com	
 prebid-server.rubiconproject.com
+prebid.a-mo.net	
 prebid.adnxs.com
 prebid.media.net
 premiumsrv.aniview.com
@@ -1165,6 +1175,7 @@ spendentaly.info
 sports.bwin.com
 srv-2017-09-03-13.config.parsely.com
 srv.realpython.net
+ssbsync.smartadserver.com
 ssl.cdne.cpmstar.com
 ssl4anyone5.com
 sslwidget.criteo.com
