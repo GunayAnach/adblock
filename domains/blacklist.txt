@@ -263,7 +263,6 @@ banners-hw.trafficfactory.biz
 banners.mellowads.com
 baseapius.xiaoyi.com
 bat.bing.com
-bcmls2.glpals.com
 bcp.crwdcntrl.net
 be.durationmedia.net
 bea4.v.fwmrm.net
@@ -365,7 +364,6 @@ cdn.evergage.com
 cdn.extremefreegames.com
 cdn.flashtalking.com
 cdn.foxpush.net
-cdn.jsdelivr.net
 cdn.krxd.net
 cdn.mgid.com
 cdn.o333o.com
@@ -935,7 +933,6 @@ parketsy.pro
 partner.googleadservices.com
 partners.tremorhub.com
 patalogs.com
-pbs.twimg.com
 pcworldcommunication.d2.sc.omtrdc.net
 pd.sharethis.com
 pdw-usr.userreport.com
