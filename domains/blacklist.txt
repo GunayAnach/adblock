@@ -1566,6 +1566,7 @@ outcome-cdn.supersonicads.com
 outcome-ssp.supersonicads.com
 events3.adcolony.com
 cx.ssacdn.com
+adc3-launch.adcolony.com
 platform.ssacdn.com
 v.ssacdn.com
 c.clicktale.net
