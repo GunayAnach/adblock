@@ -1563,6 +1563,8 @@ gamepantheon.com
 pixel-tracking.sonic-us.supersonicads.com
 iab-imp-gateway.supersonicads.com
 outcome-cdn.supersonicads.com
+outcome-ssp.supersonicads.com
+events3.adcolony.com
 cx.ssacdn.com
 platform.ssacdn.com
 v.ssacdn.com
