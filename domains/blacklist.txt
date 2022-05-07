@@ -1560,6 +1560,16 @@ rt.applvn.com
 launches.appsflyer.com	
 gm.gamepantheon.com	
 gamepantheon.com
+pixel-tracking.sonic-us.supersonicads.com
+iab-imp-gateway.supersonicads.com
+outcome-cdn.supersonicads.com
+cx.ssacdn.com
+platform.ssacdn.com
+v.ssacdn.com
+c.clicktale.net
+a4.applovin.com
+rt.applovin.com
+click-haproxy.supersonicads.com
 android.clients.google.com
 clients1.google.com
 clients2.google.com
