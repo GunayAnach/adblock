@@ -69,12 +69,10 @@ aax.amazon-adsystem.com
 abdurantom.com
 abnormour.club
 accessa.club
-accscdn.m.taobao.com
 accscdn4public.m.taobao.com	
 acdn.adnxs.com
 acds.prod.vidible.tv
 acrossiblel.info
-acs.m.taobao.com
 acs4public.m.taobao.com
 acscdn.com
 act.ds.kakao.com
@@ -173,7 +171,6 @@ allusefulinfo.com
 alt.adocean.pl
 alt.hudb.pl
 altitude.tex-sync.rockyou.net
-amdcopen.m.taobao.com	
 amountinue.info
 amplify.outbrain.com
 amplifypixel.outbrain.com
@@ -365,7 +362,6 @@ cdn.evergage.com
 cdn.extremefreegames.com
 cdn.flashtalking.com
 cdn.foxpush.net
-cdn.jsdelivr.net
 cdn.krxd.net
 cdn.mgid.com
 cdn.o333o.com
