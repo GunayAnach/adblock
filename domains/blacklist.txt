@@ -1578,3 +1578,11 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 outcome-ssp.supersonicads.com
+se-new-cdn-ap-northeast-2a-hb.rayjump.com
+sg01-cdn.rayjump.com
+prod-ms.applovin.com	
+se-new-cdn-ap-northeast-2a-hb.rayjump.com	
+net-se-cdn.rayjump.com	
+playable-stats.mindworks-creative.com	
+wv.inner-active.mobi	
+sg01-cdn.rayjump.com
