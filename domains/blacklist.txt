@@ -744,7 +744,6 @@ jadserve.postrelease.com
 jarvispopsu.com
 jistenbefor.space
 jolic2.com
-js-agent.newrelic.com
 js-sec.indexww.com
 js.ad-score.com
 js.cleancentertours.com
