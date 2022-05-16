@@ -1120,7 +1120,6 @@ search.medianewpagesearch.com
 search.spotxchange.com
 secure-ads.pictela.net
 secure-assets.rubiconproject.com
-secure-dcr.imrworldwide.com
 secure-ds.serving-sys.com
 secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
@@ -1596,3 +1595,5 @@ cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 auction.unityads.unity3d.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
 publisher-event.unityads.unity3d.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
+12.at.atwola.com
