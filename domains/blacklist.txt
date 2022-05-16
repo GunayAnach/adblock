@@ -1119,9 +1119,6 @@ search.medianewpagesearch.com
 search.spotxchange.com
 secure-ads.pictela.net
 secure-assets.rubiconproject.com
-secure-ds.serving-sys.com
-secure-gg.imrworldwide.com
-secure-gl.imrworldwide.com
 secure-vtrack.com
 secure.adnxs.com
 secure.leadback.advertising.com
