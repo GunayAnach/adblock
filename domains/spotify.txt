@@ -1,0 +1,94 @@
+# Use this to block Spotify ad servers
+# sources:
+# https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/
+# https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2
+# https://gist.github.com/Shujito/b7a8f8f971b22f49b4313d7d3e8e6931
+# https://gist.github.com/rifkyekayama/f7c43e470f23878b20416e68f73829dc
+# https://gist.github.com/shokoylele/8f4160a102480471cb946fbd800bc86a
+############## Begin manual list
+
+# spclient.wg.spotify.com # might block the entire Spotify app from working too
+media-match.com
+adclick.g.doublecklick.net
+www.googleadservices.com
+open.spotify.com
+pagead2.googlesyndication.com
+desktop.spotify.com
+googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+audio2.spotify.com
+www.omaze.com
+omaze.com
+bounceexchange.com
+http://www.googleadservices.com
+pagead46.l.doubleclick.net
+pagead.l.doubleclick.net
+googlehosted.l.googleusercontent.com
+video-ad-stats.googlesyndication.com
+pagead-googlehosted.l.google.com
+partnerad.l.doubleclick.net
+prod.spotify.map.fastlylb.net
+adserver.adtechus.com
+na.gmtdmp.com
+anycast.pixel.adsafeprotected.com
+d361oi6ppvq2ym.cloudfront.net
+gads.pubmatic.com
+idsync-ext.rlcdn.com
+ads-west-colo.adsymptotic.com
+geo3.ggpht.com
+showads33000.pubmatic.com
+securepubads.g.doubleclick.net
+http://audio2.spotify.com
+www.audio2.spotify.com
+core.insightexpressai.com
+content.bitsontherun.com
+s0.2mdn.net
+v.jwpcdn.com
+d2gi7ultltnc2u.cloudfront.net
+crashdump.spotify.com
+adeventtracker.spotify.com
+log.spotify.com
+analytics.spotify.com
+ads-fa.spotify.com
+cs283.wpc.teliasoneracdn.net
+audio-ec.spotify.com
+cs126.wpc.teliasoneracdn.net
+heads-ec.spotify.com
+u.scdn.co
+cs126.wpc.edgecastcdn.net
+ads.pubmatic.com  
+www.googletagservices.com
+sto3.spotify.com
+b.scorecardresearch.com
+bs.serving-sys.com
+d3rt1990lpmkn.cloudfront.net
+doubleclick.net
+ds.serving-sys.com
+googleadservices.com
+gtssl2-ocsp.geotrust.com
+js.moatads.com
+partner.googleadservices.com
+redirector.gvt1.com
+tpc.googlesyndication.com
+weblb-wg.gslb.spotify.com
+127.0.0.0 www.omaze.com
+audio-sp-tyo.spotify.com
+audio-sp-ash.spotify.com
+audio-fa.spotify.com
+audio-sp.spotify.com
+heads-fab.spotify.com
+ads.yahoo.com
+agkn.com
+rlcdn.com
+adnxs.com
+fastclick.net
+pubmatic.com
+googlesyndication.com
+googletagservices.com
+cloudfront.net
+ravenjs.com
+gvt1.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+
+############## End manual list
