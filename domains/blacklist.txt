@@ -1564,13 +1564,6 @@ c.clicktale.net
 a4.applovin.com
 rt.applovin.com
 click-haproxy.supersonicads.com
-android.clients.google.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
 se-new-cdn-ap-northeast-2a-hb.rayjump.com
 sg01-cdn.rayjump.com
 prod-ms.applovin.com	
