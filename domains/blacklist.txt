@@ -314,7 +314,6 @@ c.eu1.dyntrk.com
 c.go-mpulse.net
 c.liadm.com
 c.mgid.com
-c.s-microsoft.com
 c.shopmania.co.uk
 c.us1.dyntrk.com
 c02b-wss.app.slickstream.com	
@@ -1582,3 +1581,19 @@ auction.unityads.unity3d.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 12.at.atwola.com
+7lrirqsig543.s4.adsco.re
+7lrirqsig543.n4.adsco.re
+7lrirqsig543.l4.adsco.re
+www.lolinez.com	
+beingexpat.com	
+token.rubiconproject.com	
+dsum-sec.casalemedia.com	
+assets.a-mo.net	
+pixel.quantserve.com	
+image2.pubmatic.com	
+ec8b896d170fec1424bdee9f06bfb96f.safeframe.googlesyndication.com	
+sync.technoratimedia.com	
+bid.underdog.media	
+ocsp.comodoca.com.cdn.cloudflare.net	
+naleapprength.xyz	
+excellojapan.xyz
