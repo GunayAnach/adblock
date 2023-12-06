@@ -1,1 +1,1 @@
-Google.com#?#div:contains(word)
+youtube.com#?#div:contains(word)
