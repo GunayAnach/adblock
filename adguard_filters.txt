@@ -1,1 +1,1 @@
-youtube.com#?#div:contains(Awesome)
+youtube.com#?#div:contains(dead)
